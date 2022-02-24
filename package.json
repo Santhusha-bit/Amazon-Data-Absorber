@@ -1,0 +1,25 @@
+{
+  "name": "amazon-absorber",
+  "version": "1.0.0",
+  "description": "Amazon Data Absorber",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Santhusha-bit/Amazon-Data-Absorber.git"
+  },
+  "author": "Santhusha J. Mudannayaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santhusha-bit/Amazon-Data-Absorber/issues"
+  },
+  "homepage": "https://github.com/Santhusha-bit/Amazon-Data-Absorber#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "request-promise": "^4.2.6"
+  }
+}
